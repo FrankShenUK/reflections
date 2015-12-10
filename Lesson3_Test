@@ -1,0 +1,3 @@
+git remote add origin [URL]
+git remote -v //more verbose on the logs
+git push origin master // push local changes to github
